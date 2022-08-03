@@ -1,0 +1,32 @@
+.header-banner {
+	display: flex;
+	align-items: flex-end;
+}
+
+.header-banner img {
+	width: 18%;
+	height: 50px;
+	position: relative;
+	top: -14px;
+}
+
+.header-banner h5{
+	position: relative;
+	top: -10px;
+    left: 20px;
+}
+
+.header-banner h6{
+    margin: inherit;
+    position: relative;
+    font-size: 25px;
+    top: -15px;
+    left: 530px;
+}
+
+.header-banner h7{
+	top: -20px;
+    position: relative;
+    left: 548px;
+    font-size: 20px;
+}

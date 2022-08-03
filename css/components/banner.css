@@ -1,0 +1,32 @@
+.banner {
+	display: flex;
+	background: linear-gradient(173deg, #CFEFE9 40%, #E9F8F7 85%);
+	padding: 30px 40px 30px;
+	text-align: center;
+	flex-grow: 1;
+	flex-wrap: wrap;
+}
+
+.banner h1 {
+	display:inline-block;
+	vertical-align:top;
+	text-align: left;
+	float: left;
+	font-size: 50px;
+	margin-right: 500px;
+	width: 55%;
+}
+
+.banner a {
+	display:inline-block;
+	vertical-align:top;
+	text-align: left;
+}
+
+.banner img { 
+    width: 260px;
+    height: 260px;
+    float: right;
+    position: absolute;
+    left: 830px;
+}

@@ -1,0 +1,27 @@
+.hero-banner {
+	background-color: #bffcf1;
+	background-size: cover;
+	padding: 30px 40px 0px;
+	text-align: center;
+	flex-grow: 1;
+}
+
+.hero-banner h1 {
+	font-size: 40px;
+	text-align: center;
+	color: rgb(40,40,40);
+	margin-bottom: 10px;
+}
+
+.hero-banner h2 {
+	font-size: 20px;
+	font-weight: lighter;
+	color: rgba(50,50,50,0.8);
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+.hero-banner img {
+	width: 700px;
+    margin-top: 40px;
+}

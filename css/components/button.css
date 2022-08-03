@@ -1,0 +1,52 @@
+.btn-white {
+    background: white;
+    padding: 15px 290px;
+    border-radius: 30px;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.btn-clear {
+    float: left;
+    padding: 15px 90px;
+    border-radius: 30px;
+    align-items: left;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: bolder;
+    margin-top: 10px;
+    border-style: solid;
+    border-color: black;
+}
+
+.btn-clearblue {
+    position: relative;
+    left: 562px;
+    padding: 15px 40px;
+    margin: 10px;
+    border-radius: 30px;
+    color: #33c6b0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: bolder;
+    border-style: solid;
+    border-color: #33c6b0;
+}
+
+.btn-blue {
+    float: left;
+    padding: 15px 70px 15px;
+    margin: 10px 10px 0px 0px;
+    border-radius: 30px;
+    align-items: left;
+    color: #33c6b0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: bolder;
+    margin-top: 10px;
+    border-style: solid;
+    border-color: #33c6b0;
+}
